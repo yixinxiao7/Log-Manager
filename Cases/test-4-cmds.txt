@@ -1,0 +1,18 @@
+p
+k check
+r
+k sentence
+g
+k last
+g
+s
+k actuallyy
+g
+r
+p
+a 5
+d 0
+d 0
+d 0
+p
+q

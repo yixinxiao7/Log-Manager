@@ -1,0 +1,21 @@
+p
+k this tests i f there is bunch of characte rs before and after
+g
+r
+k this
+r
+r
+k this just one is actually pattern
+r
+l
+k now lma this 
+r
+k is
+g
+r
+k now
+r
+k normal
+g
+r
+q

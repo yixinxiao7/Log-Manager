@@ -1,0 +1,13 @@
+k t
+g
+r
+k remember
+g
+r
+a 0 
+a 1
+e 0
+b 0
+s
+l
+q

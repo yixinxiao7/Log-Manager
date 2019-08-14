@@ -1,0 +1,6 @@
+01:00:00:00:00|a long category title|*this tests I6f theRE &&&&&is bunch of characte8rs before and after)))))
+00:02:13:00:00|theres SO much to test|this is just a normal sentence :)
+00:00:00:11:00|big ye2et|>:)jk this one is
+00:05:06:00:00|DONT GIVE UP|lma0 this one is acTUally
+00:07:00:00:00|lit|okay this ones *actually nor**mal
+00:00:01:23:00|sklearn|okay you get the pattern now now now now now its normal

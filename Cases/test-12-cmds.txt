@@ -1,0 +1,19 @@
+c this ona should win
+g
+c THIS ONA SHOULD WIN
+g
+r
+c aaaaa
+g
+r
+k blah blah#
+g 
+r
+k 2blah blha
+r
+k 2blah blha#
+g
+s
+k this ona should win blah blha#
+r
+q
